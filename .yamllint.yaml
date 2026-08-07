@@ -16,3 +16,7 @@ rules:
 
 ignore: |
   .github/workflows/linux.yaml
+project:
+  title: "ONYX CPU and GPU"
+  description: "A custom 8-bit CPU and VGA GPU designed with AI"
+  author: "Seu Nome"
